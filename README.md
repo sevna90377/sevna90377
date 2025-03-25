@@ -1,7 +1,7 @@
 <h2>Iza Ławniczak</h2>
 
 I'm known as Sedna, my main interests include creating outstanding visuals, elegant code solutions and I can always be distracted with some computer history. Suprisingly, as a student of Computer Science at Wroclaw University of Science and Technology, I actually enjoy programming.
-
+<!-- 
 <h3>Half-orc Ranger</h3>
  🗡️ excels at scouting new areas of expertise <br>
  🗡️ able to shoot a _bug_ from 30 yards
