@@ -1,10 +1,10 @@
-##Iza Ławniczak
+## Iza Ławniczak
 
 I'm known as Sedna — my main interests include creating outstanding visuals with elegant code solutions. Additionally, I can always be distracted with some computer history. It might suprise some, that as a student of Computer Science at Wroclaw University of Science and Technology, I actually do enjoy programming (most of the time).
 
 Jokes aside, if it was dnd I would be a:
 
-###Half-orc Ranger
+### Half-orc Ranger
 &nbsp;&nbsp;&nbsp;🗡️ excels at scouting new areas of expertise <br>
 &nbsp;&nbsp;&nbsp;🗡️ able to _shoot a bug_ from 30 yards <br>
 &nbsp;&nbsp;&nbsp;🗡️ is _multithreading_ through forests on daily basis <br>
