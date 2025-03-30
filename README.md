@@ -6,7 +6,7 @@ Jokes aside, if it was dnd I would be a:
 
 <h3>Half-orc Ranger</h3>
 &nbsp;&nbsp;&nbsp;🗡️ excels at scouting new areas of expertise <br>
-&nbsp;&nbsp;&nbsp;🗡️ able to _shoot a bug_ from 30 yards <br>
+🗡️ able to _shoot a bug_ from 30 yards <br>
 &nbsp;&nbsp;&nbsp;🗡️ is _multithreading_ through forests on daily basis <br>
 &nbsp;&nbsp;&nbsp;🗡️ _safely manages the memory_ of past party members <br>
 <br>
