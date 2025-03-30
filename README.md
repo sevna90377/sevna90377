@@ -1,6 +1,6 @@
-## Iza Ławniczak
+## Hello, I'm Iza :]
 
-I'm known as Sedna — my main interests include creating outstanding visuals with elegant code solutions. Additionally, I can always be distracted with some computer history. It might suprise some, that as a student of Computer Science at Wroclaw University of Science and Technology, I actually do enjoy programming (most of the time).
+My main interests include creating outstanding visuals with elegant code solutions. Additionally, I can always be distracted with some computer history. It might suprise some, that as a student of Computer Science at Wroclaw University of Science and Technology, I actually do enjoy programming (most of the time).
 
 Jokes aside, if it was dnd I would be a:
 
