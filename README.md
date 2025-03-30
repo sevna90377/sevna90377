@@ -1,14 +1,19 @@
 <h2>Iza Ławniczak</h2>
 
-I'm known as Sedna, my main interests include creating outstanding visuals, elegant code solutions and I can always be distracted with some computer history. Suprisingly, as a student of Computer Science at Wroclaw University of Science and Technology, I actually enjoy programming.
-<!-- 
+I'm known as Sedna — my main interests include creating outstanding visuals with elegant code solutions. Additionally, I can always be distracted with some computer history. It might suprise some, that as a student of Computer Science at Wroclaw University of Science and Technology, I actually do enjoy programming (most of the time).
+
+Jokes aside, if it was dnd I would be a:
+
 <h3>Half-orc Ranger</h3>
- 🗡️ excels at scouting new areas of expertise <br>
- 🗡️ able to shoot a _bug_ from 30 yards
+&nbsp;&nbsp;&nbsp;🗡️ excels at scouting new areas of expertise <br>
+&nbsp;&nbsp;&nbsp;🗡️ able to *shoot a bug* from 30 yards <br>
+&nbsp;&nbsp;&nbsp;🗡️ is *multithreading* through forests on daily basis <br>
+&nbsp;&nbsp;&nbsp;🗡️ *safely manages the memory* of past party members <br>
 <br>
 
-<h3>Current personal projects</h3>
-<!-- **[Project 1](https://github.com/yourusername/project1)** – Something awesome goes here  
+<h3>Pride and joy</h3>
+ [Server Reliability Sim](https://github.com/sevna90377/Server_Reliability_Sim)
+
  **[Project 2](https://github.com/yourusername/project2)** – Another cool thing I built  
  **[Project 3](https://github.com/yourusername/project3)** – You get the idea... -->
 
