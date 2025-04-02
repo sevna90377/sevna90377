@@ -25,7 +25,7 @@ Jokes aside, if it was dnd I would be a:
 | v | vv |
 |---|---|
 | [![Bug Crawler The Game](https://img.shields.io/badge/Bug_Crawler_The_Game-orange?style=flat&logo=github)](https://github.com/sevna90377/BugCrawler-Game) | Dungeon crawler starring a very charismatic party of bugs on a quest <br> to defeat the dangerous spiders once and for all |
-| [![GDD Notepad](https://img.shields.io/badge/GDD_Notepad-red?style=flat&logo=github)](https://github.com/sevna90377/design-document-dynamic-notepad) | Notepad designed for blissful Game Design Document writing, with dynamic page links, <br> picture-in-picture note views and IGDB preview |
+| [![GDD Notepad](https://img.shields.io/badge/GDD_Notepad-orange?style=flat&logo=github)](https://github.com/sevna90377/design-document-dynamic-notepad) | Notepad designed for blissful Game Design Document writing, with dynamic page links, <br> picture-in-picture note views and IGDB preview |
 
 
 
