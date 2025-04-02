@@ -22,7 +22,7 @@ Jokes aside, if it was dnd I would be a:
 
 <h3>Current Projects</h3>
 
-| [![Bug Crawler The Game](https://img.shields.io/badge/BugCrawler-Game-orange?style=flat&logo=github)](https://github.com/sevna90377/BugCrawler-Game) | Dungeon crawler starring a very charismatic party of bugs on a quest <br> to defeat the dangerous spiders once and for all |
+| [![Bug Crawler The Game](https://img.shields.io/badge/Bug_Crawler_The_Game-orange?style=flat&logo=github)](https://github.com/sevna90377/BugCrawler-Game) | Dungeon crawler starring a very charismatic party of bugs on a quest <br> to defeat the dangerous spiders once and for all |
 |---|---|
 | [![OpenGL Concepts](https://img.shields.io/badge/OpenGL_Concepts-red?style=flat&logo=github)](https://github.com/sevna90377/OpenGL_concepts) | My journey of grasping computer graphics |
 | [![Graph Algorithms](https://img.shields.io/badge/Graph_Algorithms-red?style=flat&logo=github)](https://github.com/sevna90377/AZO_graph_algorithms) | Kruskal, Prim, and Dijkstra graph algorithms implementation |
