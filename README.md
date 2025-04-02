@@ -4,28 +4,31 @@ My main interests include creating outstanding visuals with elegant code solutio
 
 Jokes aside, if it was dnd I would be a:
 
-### Half-orc Ranger ────────────────────────┐
+### Half-orc Ranger ────────────────────┐
 &nbsp;&nbsp;&nbsp;🗡️ excels at scouting new areas of expertise <br>
 &nbsp;&nbsp;&nbsp;🗡️ able to __shoot a bug__ from 30 yards <br>
 &nbsp;&nbsp;&nbsp;🗡️ can be __multithreading__ through forests for hours <br>
 &nbsp;&nbsp;&nbsp;🗡️ __safely manages the memory__ of fallen party members <br>
-&nbsp;&nbsp;&nbsp;🗡️ knows how to **deep copy** dungeon maps <br> <br>
-└──────────────────────────────────────────
+&nbsp;&nbsp;&nbsp;🗡️ knows how to **deep copy** dungeon maps <br>  
+
+└─────────────────────────────────────
 <br>
 
-<h3>Pride and joy</h3>
+### Pride and joy 
+- [![Server Reliability Sim](https://img.shields.io/badge/Server_Reliability_Sim-red?style=flat&logo=github)](https://github.com/sevna90377/Server_Reliability_Sim)
+  <br> – Multithreaded players in a simulation of server usage and user satisfaction  
+- [![OpenGL Concepts](https://img.shields.io/badge/OpenGL_Concepts-red?style=flat&logo=github)](https://github.com/sevna90377/OpenGL_concepts)
+  <br> – My journey of grasping computer graphics  
+- [![Graph Algorithms](https://img.shields.io/badge/Graph_Algorithms-red?style=flat&logo=github)](https://github.com/sevna90377/AZO_graph_algorithms)
+  <br> – Kruskal, Prim, and Dijkstra graph algorithms implementation
 
-| [![Server Reliability Sim](https://img.shields.io/badge/Server_Reliability_Sim-red?style=flat&logo=github)](https://github.com/sevna90377/Server_Reliability_Sim) | Multithreaded players in a simulation of server usage and user satisfaction |
-|---|---|
-| [![OpenGL Concepts](https://img.shields.io/badge/OpenGL_Concepts-red?style=flat&logo=github)](https://github.com/sevna90377/OpenGL_concepts) | My journey of grasping computer graphics |
-| [![Graph Algorithms](https://img.shields.io/badge/Graph_Algorithms-red?style=flat&logo=github)](https://github.com/sevna90377/AZO_graph_algorithms) | Kruskal, Prim, and Dijkstra graph algorithms implementation |
 
-<h3>Current Projects</h3>
+### Current Projects
+- [![Bug Crawler The Game](https://img.shields.io/badge/Bug_Crawler_The_Game-orange?style=flat&logo=github)](https://github.com/sevna90377/BugCrawler-Game)
+  <br> – Dungeon crawler starring a very charismatic party of bugs on a quest <br> to defeat the dangerous spiders once and for all  
+- [![GDD Notepad](https://img.shields.io/badge/GDD_Notepad-orange?style=flat&logo=github)](https://github.com/sevna90377/design-document-dynamic-notepad)
+  <br> – Notepad designed for blissful Game Design Document writing, with dynamic page links, <br> picture-in-picture note views, and IGDB preview  
 
-| v | vv |
-|---|---|
-| [![Bug Crawler The Game](https://img.shields.io/badge/Bug_Crawler_The_Game-orange?style=flat&logo=github)](https://github.com/sevna90377/BugCrawler-Game) | Dungeon crawler starring a very charismatic party of bugs on a quest <br> to defeat the dangerous spiders once and for all |
-| [![GDD Notepad](https://img.shields.io/badge/GDD_Notepad-orange?style=flat&logo=github)](https://github.com/sevna90377/design-document-dynamic-notepad) | Notepad designed for blissful Game Design Document writing, with dynamic page links, <br> picture-in-picture note views and IGDB preview |
 
 
 
