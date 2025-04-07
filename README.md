@@ -24,7 +24,7 @@ Jokes aside, if it was dnd I would be a:
 
 
 ### Current Projects
-- [![Bug Crawler The Game](https://img.shields.io/badge/Bug_Crawler_The_Game-orange?style=flat&logo=github)](https://github.com/sevna90377/BugCrawler-Game)
+- [![Bug Crawler The Game](https://img.shields.io/badge/Bug_Crawler_The_Game-orange?style=flat&logo=github)](https://github.com/sevna90377/BugCrawler-Game/tree/Prototypes)
   <br> – Dungeon crawler starring a very charismatic party of bugs on a quest <br> to defeat the dangerous spiders once and for all  
 - [![GDD Notepad](https://img.shields.io/badge/GDD_Notepad-orange?style=flat&logo=github)](https://github.com/sevna90377/design-document-dynamic-notepad)
   <br> – Notepad designed for blissful Game Design Document writing, <br> with dynamic page links, picture-in-picture note views, and IGDB preview  
